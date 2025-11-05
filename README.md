@@ -56,3 +56,10 @@ Final merged and analyzed outputs are stored in:
 (or data/output/ in your local project)
 The PostgreSQL table (week8_demo.employees) can be queried for further analysis.
 
+## 📈 Example Output
+
+Airflow DAG Graph View  
+![Airflow DAG Graph](/Users/otting/Desktop/1.png)
+
+
+
