@@ -59,7 +59,8 @@ The PostgreSQL table (week8_demo.employees) can be queried for further analysis.
 ## 📈 Example Output
 
 Airflow DAG Graph View  
-![Airflow DAG Graph](/Users/otting/Desktop/1.png)
+<img width="692" height="130" alt="1" src="https://github.com/user-attachments/assets/b8f8ff1f-120a-4714-b004-1a23606e9f09" />
+
 
 
 
